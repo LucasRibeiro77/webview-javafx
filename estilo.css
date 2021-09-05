@@ -1,0 +1,21 @@
+body {
+	background-color: #E0FFFF;
+}
+h1 {
+	color: red;
+	font-weight: bold;
+}
+label {
+	font-size: 18pt;
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
+div {
+	background-color: gray;
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+	height: 65px;
+	padding: 30px;
+}
